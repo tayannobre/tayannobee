@@ -1,5 +1,3 @@
-# tayannobre
-
 # 👋 Olá, eu sou Tayan Nobre  
 
 🎓 Estudante de Estatística na **Universidade Federal do Ceará (UFC)**  
