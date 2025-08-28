@@ -30,8 +30,8 @@
 
 ## 🌱 O que estou aprendendo  
 - Métodos de **machine learning** supervisionados e não supervisionados  
-- **Inferência estatística** avançada  
-- Visualização e **storytelling com dados**  
+- **Inferência estatística**
+- **Estatística Computacional**
 
 ---
 
@@ -45,6 +45,6 @@
 ## 📫 Como me encontrar  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: tayannobre2015@gmail.com)  
 
 ---
