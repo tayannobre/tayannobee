@@ -13,16 +13,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
----
-
-## 📌 Projetos em Destaque  
-
-- 🛳️ **Previsão de Sobreviventes (Kaggle Titanic Challenge)**  
-  Classificação de passageiros usando modelos preditivos.  
-
-- 💳 **Análise de Crédito com Naive Bayes**  
-  Construção de um modelo para prever risco de inadimplência com foco em crédito.  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)   
 
 ---
 
