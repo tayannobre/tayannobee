@@ -15,13 +15,6 @@
 
 ---
 
-## 🌱 O que estou aprendendo  
-- Métodos de **machine learning** supervisionados e não supervisionados  
-- **Inferência estatística**
-- **Estatística Computacional**
-
----
-
 ## 📊 Estatísticas do GitHub  
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tayannobre&show_icons=true&theme=radical)  
